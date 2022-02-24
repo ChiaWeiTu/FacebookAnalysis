@@ -1,7 +1,7 @@
 # FacebookAnalysis
 Facebook group members with Social network analysis-Python
 
-purpose
+    purpose
 Use python to write an automated program to capture the activity records of each group member in the Facebook Cypress snowboarding ride shared community within one month, including: the number of posts, the number of comments, and the number of emojis answered. Try to know who have more participation in the group. If there is a request want to go snowboarding with the shared ride, it is more convenient way to reach to the cypress mountain resort. 
 
 
